@@ -1,5 +1,5 @@
 # Who I am
-Hello there! <br>
+Hello there✌️  <br>
 I'm Igor, a DevOps engineer with 4+ years of experience in companies in different industries (fintech, development, entertainment, consulting).
 
 Currently I work as a DevSecOps engineer implementing DevSecOps processes from scratch. Also, I actively take part in Internal Developers Platform (IDP, aka Private Cloud) building.
