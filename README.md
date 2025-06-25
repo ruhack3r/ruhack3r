@@ -13,7 +13,7 @@ Feel free to contact me. I'm opened to job opportunities as a DevOps/DevSecOps e
 # What this repo about
 Here I store projects with different practical tasks. I do try various technologies to get familiar and to get hands-on experience with them, and to master my skills.
 
-Also I have a similar things on [GitLab](https://gitlab.com/hack3r-devops).
+Also I have a similar things on [GitLab](https://gitlab.com/stevie-inc-devops).
 
 # Technology stack
 I constantly improve my skills and the list below doesn't show all the tech I can work with. 
